@@ -23,7 +23,7 @@ float pembagian(float a, float b)
     return a / b;
 }
 
-void inputData()
+void inputData() //prosedur
 {
     cout << "\nMasukkan bilangan pertama: ";
     cin >> bilangan1;
